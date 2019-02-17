@@ -5,6 +5,8 @@
 #import <React/RCTBridgeModule.h>
 #endif
 
+#import "Handshake/Handshake.h"
+
 @interface RNHandshakeChat : NSObject <RCTBridgeModule>
 
 @end
